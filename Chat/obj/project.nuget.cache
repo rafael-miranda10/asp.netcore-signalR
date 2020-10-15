@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lWDOvYOp3pY+56FEpZ9EKBtxYf3ixIbgOX1I+zEIsuuZ3rArPalsslmkCQF4u1zU2/XfRScK09tnIPcTpW28lQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rafael.miranda\\Desktop\\ChatTheos\\ChatTheos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rafael.miranda\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
